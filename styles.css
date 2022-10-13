@@ -1,0 +1,38 @@
+body {
+  background-color: #EEF1FF;
+  text-align: justify;
+}
+
+h1 {
+  color: #B1B2FF;
+}
+
+h3 {
+  color: #AAC4FF;
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: #B1B2FF;
+    border-width: 5px;
+    width: 8%;
+  }
+
+ol {
+  list-style-position: inside;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+ul {
+  list-style-position: inside;
+}
+
+/****************** CLASS SELECTORS *********************/
+
+.intro {
+  text-align: justify;
+}
